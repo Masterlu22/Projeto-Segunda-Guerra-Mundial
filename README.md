@@ -1,11 +1,11 @@
 # Projeto-Segunda-Guerra-Mundial
 ### Este repositório é exclusivo para atividade acadêmicas
 
-## Neste repositório em questão, estão contidos, resumidamente, os primciapais tópiscos da segunda Guerra mundial.
+## Neste repositório em questão, estão contidos, resumidamente, os principais tópicos da segunda Guerra mundial.
 
 ## Explicando cada versão:
 
-* v1.0.0 - Adicionado a main os arquivos segundaGuerra.html e segundaGuerra.css
+* v1.0.0 - Adicionado à main os arquivos segundaGuerra.html e segundaGuerra.css
 * v1.1.0 - Feito merge entre a branch introducao, responsável pelo texto de introdução da Segunda Guerra, com a main, no arquivo segundaGuerra.html
 * v1.2.0 - Feito merge entre a branch contexto, responsável pelo texto referente ao contexto da Segunda Guerra, com a main, no arquivo segundaGuerra.html
 * v1.3.0 - Feito merge entre a branch envolvidos, responsável pelo texto referente aos principais envolvidos da Segunda Guerra, com a main, no arquivo segundaGuerra.html
